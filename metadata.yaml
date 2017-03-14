@@ -1,5 +1,5 @@
 _repo: Fletcher-of-Madeley_6160
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Railton, George S. (George Scott)
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1913
     gutenberg_agent_id: '5302'
     url: http://www.gutenberg.org/2009/agents/5302
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, Margaret
     gutenberg_agent_id: '1978'
     url: http://www.gutenberg.org/2009/agents/1978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6160#Fletcher-of-Madeley
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
