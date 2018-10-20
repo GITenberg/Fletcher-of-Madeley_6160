@@ -1,5 +1,5 @@
 _repo: Fletcher-of-Madeley_6160
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   author_of_introduction:
     agent_name: Railton, George S. (George Scott)
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Fletcher, John, 1729-1785'
 - !lcc 'BX'
 - !lcsh 'Methodists -- England -- Biography'
+- GITenberg
 title: Fletcher of Madeley
 url: http://www.gutenberg.org/ebooks/6160
